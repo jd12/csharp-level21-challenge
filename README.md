@@ -28,7 +28,7 @@ to open it in VS code (note the `.` to denote the current directory)
 
 ## Push your code
 
-After you have updated the README, do a `git add` and a `git commit` with the commit message `feat: Complete Vin's Trouble`
+After you have updated the README, do a `git add` and a `git commit` with the commit message `feat: Complete Arrow Factories`
 
 run the below command to push your code
 
