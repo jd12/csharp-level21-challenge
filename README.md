@@ -19,12 +19,16 @@ code .
 
 to open it in VS code (note the `.` to denote the current directory)
 
-## Arrow Factories
+## Arrow Factories Program Code
 
+### Arrow.cs
 ```csharp
-// Paste your Arrow Factories code in this block
+// Paste your Arrow Factories Arrow.cs code in this block
 ```
-
+### Program.cs
+```csharp
+// Paste your Arrow Factories Program.cs code in this block
+```
 
 ## Push your code
 
